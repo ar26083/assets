@@ -6,6 +6,9 @@
 * ##### #   #  ##    #   #  #   ###   ###    #   #####  ###  #   #
 */
 
+//
+	git add .
+
 // commit, commit_name
 	git commit -m 'commit_name'
 	git commit -m ''
