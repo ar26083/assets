@@ -6,7 +6,7 @@
 * ##### #   #  ##    #   #  #   ###   ###    #   #####  ###  #   #
 */
 
-//
+// fitrst comand
 	git add .
 
 // commit, commit_name
