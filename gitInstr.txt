@@ -1,5 +1,10 @@
 // commit, commit_name
-git commit -m 'commit_name'
+	git commit -m 'commit_name'
+	git commit -m ''
 
-// push
-git push -u origin main
+// push on branch main
+	git push -u origin main
+
+// add file
+	git add gitInstr.txt
+	git add 
